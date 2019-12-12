@@ -16,7 +16,8 @@ We would like a web application that allows users to list spaces they have avail
 - Evaluate own progress throughout the week
 - Create a repository containing the week's activity and retrospective notes
 
-## User stories ##
+## User stories ## 
+Created as a team using project requirements and common sense.
 
 ```
 As a landlord
@@ -56,3 +57,31 @@ So that I can make the most of potential tenants
 I would like to still offer my space if a potential tenant has not confirmed.
 
 ```
+
+## Technologies
+- Ruby 2.6.0
+- Sinatra
+- ActiveRecord
+- CarrierWave
+- Pony
+- Rspec
+- Rubocop
+- Capybara
+- SimpleCov
+
+
+## How to Install and Run
+```bash
+> git clone git@github.com:DanielleInkster/short_ferret_midnight_acebook.git
+> bundle install
+> rackup
+
+```
+### How to Run Tests
+```bash
+> rspec # Run the tests to ensure it works
+> rubocop # Check code quality
+```
+======================================
+
+## Code Quality

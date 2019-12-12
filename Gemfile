@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 ruby '2.6.0'
 
-gem 'pg' # required for ActiveRecord
+gem 'pg', '1.1.4' # required for ActiveRecord
 gem 'bcrypt' # required for ActiveRecord
 gem 'rake'
 gem 'sinatra'

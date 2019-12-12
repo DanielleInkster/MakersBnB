@@ -222,7 +222,7 @@ DEPENDENCIES
   capybara
   carrierwave
   mini_magick
-  pg
+  pg (= 1.1.4)
   pony
   rails
   rake
