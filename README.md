@@ -61,7 +61,7 @@ I would like to still offer my space if a potential tenant has not confirmed.
 ## Technologies
 - Ruby 2.6.0
 - Sinatra
-- ActiveRecord
+- PostgresQL
 - CarrierWave
 - Pony
 - Rspec
@@ -84,4 +84,4 @@ I would like to still offer my space if a potential tenant has not confirmed.
 ```
 ======================================
 
-## Code Quality
+
